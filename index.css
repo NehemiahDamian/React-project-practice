@@ -1,0 +1,12 @@
+* {
+  margin: none;
+  padding: none;
+}
+
+.header {
+  display: flex;
+  background-color: red;
+  width: 100%;
+  margin: none;
+  padding: none;
+}
